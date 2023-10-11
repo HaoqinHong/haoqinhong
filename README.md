@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there is Haoqin Hong， a Computer Science and Technology student. I am also a passionate pursuer of music and the arts.👋
+#### My research interests are computer and embedded vision, neuromorphic computing, and memristor-based neural networks. I am also an enthusiast of robotics competitions. Welcome to visit my personal homepage: <a herf="//haoqinhong.github.io/">https://haoqinhong.github.io/</a>
 
 <!--
 **HaoqinHong/haoqinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

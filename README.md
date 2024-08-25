@@ -1,6 +1,6 @@
 ### Hi there is Haoqin Hong 👋
 
-#### I am a Artificial Intelligence student. I'm also a visionary and a science fiction writer. 
+#### I am an Artificial Intelligence student. I'm also a visionary and a science fiction writer. 
 
 #### My research interests are Physics-Inspired Vision, 3D Reconstruction, and Robot Vision. I am also an enthusiast of robotics competitions. 
 

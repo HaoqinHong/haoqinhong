@@ -4,7 +4,7 @@
 
 #### My research interests are Scientific Computing and Physics-Inspired Vision, 3D Large Reconstruction Model, Embodied Intelligence. I am also an enthusiast for robotics and deep-learning competitions. 
 
-#### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/).<br> Welcome to visit my [Kaggle Profile](https://www.kaggle.com/haoqinhong).
+#### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).
 
 #### Feel free to contact me by email: HaoqinHong@outlook.com / honghaoqin@email.swu.edu.cn 😄
 

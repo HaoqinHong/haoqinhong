@@ -2,7 +2,7 @@
 
 #### I am an Artificial Intelligence student. I'm also a visionary and a science fiction writer. 
 
-#### My research interests are Scientific Computing and Physics-Inspired Vision, 3D Large Reconstruction Model, Embodied Intelligence. I am also an enthusiast for robotics and deep-learning competitions. 
+#### My research interests are Physics-Inspired Vision, 3D Large Reconstruction Model, Mixed-Reality and Embodied Intelligence. I am also an enthusiast for robotics and deep-learning competitions. 
 
 #### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).
 

@@ -3,7 +3,7 @@
 #### 🏆 M.Phil in Intelligent Science and Technology@USTC & B.Eng in Computer Science and Technology@SWU. <br> 🧐 My research interests are Physics-Inspired Vision, 3D Large Reconstruction Model, Mixed-Reality and Embodied Intelligence. <br> ⛩️ Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).
 
 ![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoqinhong&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoqinhong&layout=compact&hide=html,scss,css,shell)
 
 
 

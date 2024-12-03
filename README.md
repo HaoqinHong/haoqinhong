@@ -4,9 +4,11 @@
 
 #### My research interests are Physics-Inspired Vision, 3D Large Reconstruction Model, Mixed-Reality and Embodied Intelligence. I am also an enthusiast for robotics and deep-learning competitions. 
 
-#### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).
+#### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).<br>Feel free to contact me by email: HaoqinHong@outlook.com / honghaoqin@email.swu.edu.cn 😄
 
-#### Feel free to contact me by email: HaoqinHong@outlook.com / honghaoqin@email.swu.edu.cn 😄
+![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ingra14m&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+![](https://komarev.com/ghpvc/?username=haoqinhong)
 
 <!--
 **HaoqinHong/haoqinhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

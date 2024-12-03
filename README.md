@@ -1,6 +1,6 @@
 ### Hi there is Haoqin Hong 👋
 
-#### I am an Artificial Intelligence student. I'm also a visionary and a science fiction writer. <br> My research interests are Physics-Inspired Vision, 3D Large Reconstruction Model, Mixed-Reality and Embodied Intelligence. 
+#### 💬 I am an Artificial Intelligence student. I'm also a visionary and a science fiction writer. <br> 🔭 My research interests are Physics-Inspired Vision, 3D Large Reconstruction Model, Mixed-Reality and Embodied Intelligence. 
 
 #### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).😄
 

@@ -6,7 +6,7 @@
 
 #### Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).<br>Feel free to contact me by email: HaoqinHong@outlook.com / honghaoqin@email.swu.edu.cn 😄
 
-![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ingra14m&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Walsvid's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ![](https://komarev.com/ghpvc/?username=haoqinhong)
 

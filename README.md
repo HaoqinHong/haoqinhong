@@ -1,4 +1,4 @@
-### Hi there is Haoqin Hong 👋
+### Hi there is Haoqin Hong (洪浩钦) 👋
 
 #### 🏆 M.Phil in Intelligent Science and Technology@USTC & B.Eng in Computer Science and Technology@SWU. <br> 🦄 My research interests are Physics-Inspired Vision Understanding and Embodied Intelligence. <br> ⛩️ Welcome to visit my [Personal Homepage](//haoqinhong.github.io/) and my [Kaggle Profile](https://www.kaggle.com/haoqinhong).
 

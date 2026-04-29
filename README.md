@@ -1,6 +1,6 @@
 ### Hi, there is Haoqin Hong (洪浩钦) 👋
 
-#### 🏆 M.Phil in AI at USTC and B.Eng. in CS at SWU. I have also established a long-term partnership with Ubisoft La Forge. <br> 🦄 My research interests are Physically Interactive World Models. <br> ⛩️ Welcome to visit my [Personal Homepage](//haoqinhong.github.io/).
+#### 🏆 M.Phil in AI at USTC and B.Eng. in CS at SWU. <br> 😼 Intern in UBISOFT La Forge and iFLyTek Spark-LLM.  <br> 🦄 My research interests are Physically Interactive World Models. <br> ⛩️ Welcome to visit my [Personal Homepage](//haoqinhong.github.io/).
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="54%" />

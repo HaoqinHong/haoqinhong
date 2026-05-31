@@ -1,6 +1,6 @@
 ### Hi, there is Haoqin Hong (洪浩钦) 👋
 
-#### 🏆 First-year M.Phil student in the School of AI & DS at USTC. <br> 😼 Intern at UBISOFT La Forge and iFlyTek Spark-LLM.  <br> 🦄 My research interests are Physical Constitutive Representation Learning (Physical Intelligence & Game World Model). <br> ⛩️ Welcome to visit my [Personal Homepage](//haoqinhong.github.io/).
+#### 🏆 First-year M.Phil student in the School of AI & DS at USTC. <br> 😼 Intern at UBISOFT La Forge and iFlyTek Spark-LLM.  <br> 🦄 My research interests are Physical Constitutive Representation Learning (Physical Intelligence & Interactive World Model). <br> ⛩️ Welcome to visit my [Personal Homepage](//haoqinhong.github.io/).
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=haoqinhong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="54%" />
